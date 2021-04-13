@@ -1,6 +1,8 @@
 # OrganDriver-java
 
 A java Program that reads donor and recipent information and matches the donors and recipents with the same blood type.
+The main method is located in TransplantDriver.java
+
 It also has these functions:
 
 * (LR) - List all recipients
